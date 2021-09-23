@@ -62,14 +62,14 @@ All code provided in robot.py and randommaze.py modules was originally produced 
 
 Flooding algorithm and its usage in an unknown maze context was derived from https://medium.com/@minikiraniamayadharmasiri/micromouse-from-scratch-algorithm-maze-traversal-shortest-path-floodfill-741242e8510
 
-### License
+## License
 
 Free to use
 
-### Contact
+## Contact
 
 roberto.paglino@gmail.com
 
-### Project Link: 
+## Project Link: 
 
 https://github.com/rpaglin/UdacityCapstoneProject
