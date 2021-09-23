@@ -43,8 +43,10 @@ The software uses the following libraries:
 
 The code was developed and tested under PyCharm environment
 
-Robot software can be tested from the command line with a command like the following: python tester.py mazename.txt. .
+Robot software can be tested from the command line with a command like the following: python tester.py mazename.txt.
+
 Maze visualization follows can be obtained using python showmaze.py mazename.txt. 
+
 Running Robot.py as main will produce a new version of the 'RobotEvaluationDataTest.csv'. Specifically, the code will scan mazes within folder '.\validrandommaze'. 
 For each maze in the folder, the code will go through 8 different robot working mode, and for each (maze, mode) pair it will run 10 different maze exploration execution (for a total of 240*8*10 = 19200 executions).
 
