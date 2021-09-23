@@ -8,7 +8,7 @@ The code should provide a digital abstraction of robot running in 'micromouse IE
 # Repository content
 The outcome of the exercise is collected in a number of deliverables, including some python modules, one jupiter notebook, a trial set of mazes, a csv coded dataframe and a pdf write up. A  write up of the project similar to pdf file was also posted as a Mudim blog at https://roberto-paglino.medium.com/discover-and-and-navigate-a-virtual-maze-9297abba2db8. Details on repository content are summerized below:
 
-## Pythone modules:
+## Python modules:
 - robot.py: (the main deliverable) contains the requested 'Robot' class, with method and attributes that enable robot movement and maze discovery
 - mycreatemaze.py: contains an algorithm developed to create a set of random mazes intended for robot performance testing
 - maze.py, tester.py, showmaze.py: additional project input, intended respectively to provide the 'maze' class, to test robot navigation in a maze, and to provide a visula picture of a specific maze 
