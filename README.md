@@ -1,6 +1,6 @@
 # UdacityCapstoneProject
- Repository for delivery of Capstone Project for data Science Udacity Nanodegree
-## About The Project
+Repository for delivery of Capstone Project for data Science Udacity Nanodegree
+
 The project is addressing one of the alternatives proposed as a capstone project for Data Science Udacity Nanodegree.
 Specifically the exercice asked to code a 'robot' python class, capable to guide a virtual robot moving into an unknown maze, from a given starting point toward the maze center.
 The code should provide a digital abstraction of robot running in 'micromouse IEEE competition'   
