@@ -8,7 +8,7 @@ Specifically the exercice asked to code a 'robot' python class, capable to guide
 The code should provide a digital abstraction of robot running in 'micromouse IEEE competition'   
 
 ## Repository content
-The outcome of the exercise is collected in a number of deliverables, including some python modules, one jupiter notebook, a trial set of mazes, a csv coded dataframe and a pdf write up. A  write up of the project similar to pdf file was also posted as a Medium blog at https://roberto-paglino.medium.com/discover-and-and-navigate-a-virtual-maze-9297abba2db8. Details on repository content are summerized below:
+The outcome of the exercise is collected in a number of deliverables, including some python modules, one jupiter notebook, a trial set of mazes, a csv coded dataframe and a pdf write up. A  write up of the project similar to pdf file was also posted as a Medium blog at https://roberto-paglino.medium.com/discover-and-and-navigate-a-virtual-maze-9297abba2db8. Details on repository content are summarized below:
 
 ### Python modules:
 - robot.py: (the main deliverable) contains the requested 'Robot' class, with method and attributes that enable robot movement and maze discovery
