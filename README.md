@@ -21,7 +21,9 @@ The outcome of the exercise is collected in a number of deliverables, including 
 
 ### csv dataset:
 - Folder 'validrandommazes' also include a csv-coded pandas dataset, 'RobotEvaluationDataTest.csv'. Each row in the dataset include information about a specific run of the robot on a specific maze. Each rows has info about the used maze (filename, size, etc), robot configuration (the exploration path used) and robot performance in that configuration and on that maze    
-  
+
+- An additional csv-coded pandas dataset, 'DifficultMaze.csv' collect some data used in the report to show resaon of bad performance of the algorithm on a specific maze    
+
 ### Jupiter notebook:
 - TrialMazeAnalysis.ipynb: A notebook including an analysis of 'RobotEvaluationDataTest.csv' 
 
