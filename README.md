@@ -39,22 +39,22 @@ The software uses the following libraries:
 - matplotlib  (Notebook only)
 
 
-## Usage
+# Usage
 
 The code was developed and tested under PyCharm environment
 
 Robot software can be tested from the command line with a command like the following: python tester.py mazename.txt.
 
-Maze visualization follows can be obtained using python showmaze.py mazename.txt. 
+Maze visualization can be obtained similarly using python showmaze.py mazename.txt. 
 
-Running Robot.py as main will produce a new version of the 'RobotEvaluationDataTest.csv'. Specifically, the code will scan mazes within folder '.\validrandommaze'. 
-For each maze in the folder, the code will go through 8 different robot working mode, and for each (maze, mode) pair it will run 10 different maze exploration execution (for a total of 240*8*10 = 19200 executions).
+Running Robot.py as main will produce a new version of the 'RobotEvaluationDataTest.csv' file. Specifically, the code will scan mazes within folder '.\validrandommaze'; 
+for each maze in the folder, the code will go through 8 different robot working mode, and for each 'maze, mode' pair it will run 10 different maze exploration execution (for a total of 240 x 8 x 10 = 19200 executions).
 
-When called as a class, (e.g. from tester.py) robot is configured to use the working mode that proved to be more performant on the trial maze set
+When called as a class, (e.g. from tester.py) robot is configured to use the working mode that proved to be more performant on the trial maze set.
 
 Notebook expect to start in the folder containing the 'valirandommaze' subfolder  
 
-## Acknowledgement
+# Acknowledgement
 
 All code provided in robot.py and randommaze.py modules was originally produced by me for this project (with the exception of what was part of the robot.py version provided as project input). Some data structures used in robot.py, specifically some global variables and the ‘walls’ attribute organization, were derived by the ‘maze.py’ modules that was also provided as part of the project input.
 
