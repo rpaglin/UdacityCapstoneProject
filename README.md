@@ -31,7 +31,7 @@ The outcome of the exercise is collected in a number of deliverables, including 
 - report.pdf: As anticipated, the actual report of the project was posted as a medium contribution. The same content (more or less) was also saved as pdf and included in the repository. 
 
 ### Folder organization
-All content is included in the main repository, with the exception of trial mazes and Jupiter notebook (all included in 'validfandommaze' folder) 
+All content is included in the main repository, with the exception of trial mazes and csv result file RobotEvaluationDataTest.csv (all included in 'validfandommaze' folder) 
 
 ## Prerequisites
 
